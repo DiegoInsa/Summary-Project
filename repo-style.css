@@ -1,0 +1,34 @@
+:root {
+
+    /* --- TYPOGRAPHY --- */
+
+    --font-family: 'Hanken Grotesk', sans-serif;
+    --weight-small: 500;
+    --weight-medium: 700;
+    --weight-high: 800;
+
+    /* --- SCREEN SIZE --- */
+
+    --mobile: 375px;
+    --desktop: 1440px;
+
+    /* --- COLORS --- */
+
+    --item-red: 0, 100%, 67%;
+    --item-yellow: 39, 100%, 56%;
+    --item-green: 166, 100%, 37%;
+    --item-blue: 234, 85%, 45%;
+
+    --backgr-slateblue: 252, 100%, 67%;
+    --backgr-royalblue: 241, 81%, 54%;
+
+    --circle-violetblue: 256, 72%, 46%, 1;
+    --circle-persianblue: 241, 72%, 46%, 0;
+
+    /* --- NEUTRAL COLORS --- */
+
+    --white: hsl(0, 0%, 100%);
+    --blue: hsl(221, 100%, 96%);
+    --lavander: hsl(241, 100%, 89%);
+    --darkgray: hsl(224, 30%, 27%);
+}
